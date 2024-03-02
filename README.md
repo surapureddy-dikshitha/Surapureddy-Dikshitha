@@ -1,4 +1,5 @@
 Problem Description : 
+
  ➢ The kidney is one of the most important body organs that filtrates all the wastes and
     water from human body to make urine  
     
@@ -21,6 +22,7 @@ Problem Description :
     Chronic Kidney Disease (CKD)
     
 Requirement Specification
+
  ➢ Use historical dataset (Dataset Attached) on chronic kidney disease from UC Irvine
     Machine Learning Repository which consists of information such as age, blood
     pressure, Specific Gravity, Albumin, Sugar, Red blood cells and etc.
@@ -29,5 +31,6 @@ Requirement Specification
     not as per the given dataset.
     
 Judging Metrics
+ 
  ➢ Chronic Kidney Disease Classification -Precision, Recall, Accuracy F1-score, Specificity,
     confusion matrix.
